@@ -2,17 +2,17 @@
 For this assignment, you will submit a high-level outline of your project. This can, and likely will, change over time. In particular, your mentor will provide direction and feedback to help sharpen your ideas. So don't worry if you feel unsure about some aspects of the outline or if you have to change some things later.
 
 ## Assignment Description
-[Project Outline Assignment](https://education.launchcode.org/liftoff/modules/assignments/project-outline)
+Real-time video game achievement tracking and review system.
 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+Real-time video game achievement tracking and review system.
 ### Features
-Include Features here
+Create Account: Users can login and logout CRUD database achievements CRUD database reviews
 ### Technologies
-Include Technologies here
+Java Spring Boot MySQL Hibernate Thymeleaf te
 ### What I'll Have to Learn
-Include what you will need to learn here
+Working with APIs Link users accounts to user data in the database
 ### Project Tracker
-Link to your Trello board here
+https://trello.com/b/9aOF7OkR/vats
